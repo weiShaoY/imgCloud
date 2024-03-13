@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/New%20LOGO-150.png" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/weiShaoY/imgCloud/img/img_cloud_logo.png" alt="">
   <h1>ImgCloud</h1>
   <blockquote>
     个人收藏的编程相关的图标(Svg 格式)和图片
