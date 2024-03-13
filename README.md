@@ -12,16 +12,16 @@
 https://cdn.jsdelivr.net/gh/用户名/仓库名/文件路径
 
 #svg文件夹
-https://cdn.jsdelivr.net/gh/weiShaoY/svg/javascript.svg
+https://cdn.jsdelivr.net/gh/weiShaoY/imgCloud/svg/javascript.svg
 
 #img文件夹
-https://cdn.jsdelivr.net/gh/weiShaoY/img/programmer.png
+https://cdn.jsdelivr.net/gh/weiShaoY/imgCloud/img/programmer.jpg
 ```
 
 <div align="center">
-
   <img src="https://cdn.jsdelivr.net/gh/weiShaoY/imgCloud/svg/javascript.svg"   width="88" alt="">
+</div>
 
-  <img src="https://cdn.jsdelivr.net/gh/weiShaoY/img/programmer.png" alt="">
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/weiShaoY/imgCloud/img/programmer.jpg" alt="">
 </div>
