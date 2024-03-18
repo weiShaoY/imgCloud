@@ -9,7 +9,7 @@
 ### 使用
 
 ```bash
-https://cdn.jsdelivr.net/gh/用户名/仓库名/文件路径
+https://cdn.jsdelivr.net/gh/您的Github用户名/项目仓库名/文件路径
 
 #svg文件夹
 https://cdn.jsdelivr.net/gh/weiShaoY/imgCloud/svg/javascript.svg
